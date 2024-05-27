@@ -1,3 +1,3 @@
 print(br)
-print(a)
+print(12)
 print(30)
